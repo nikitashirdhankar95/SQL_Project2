@@ -1,4 +1,7 @@
 🌾 Smart Farming Sensor Data for Yield Prediction
+
+
+
 Goal
 The primary goal of this project is to analyze the influence of various environmental and operational factors—such as temperature, rainfall, soil quality, and irrigation methods—on crop yield. The aim is to gain insights that can optimize agricultural practices, predict yields accurately, and improve decision-making for sustainable farming.
 
