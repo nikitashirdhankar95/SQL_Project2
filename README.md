@@ -3,15 +3,19 @@
 
 
 Goal
+
 The primary goal of this project is to analyze the influence of various environmental and operational factors—such as temperature, rainfall, soil quality, and irrigation methods—on crop yield. The aim is to gain insights that can optimize agricultural practices, predict yields accurately, and improve decision-making for sustainable farming.
 
 Skills Demonstrated
+
 1.	SQL Data Analysis: Proficient use of AVG, GROUP BY, COUNT, and other aggregate functions to analyze trends and relationships within large datasets.
 2.	Critical Thinking & Problem Solving: Designing queries and interpreting results to derive meaningful conclusions about agricultural outcome
 
 Tools & Technologies Used
+
 1.	SQL: For querying the dataset and calculating metrics such as average yields, disease impact, and irrigation effectiveness.
 2.	GitHub: Showcasing project outcomes in a professional portfolio for enhanced visibility.
+   
 Key Insights & Results
 
 1.	Yield Optimization:
